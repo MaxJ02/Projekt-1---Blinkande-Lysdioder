@@ -1,0 +1,15 @@
+1. Vad lärde ni er av projektet?
+
+Då jag gjorde detta långt i efterhand blev det mer som repetition, vilket var positivt i sig.
+
+2. Vad var lätt/svårt?
+
+Min arduino krånglade lite när jag försökte koppla upp och testa koden, annars var det relativt lätt nu så "långt" in i kursen
+
+3. Vad hade ni velat ha lärt er mer innan projektet?
+
+Inget att tillägga
+
+4. Övriga kommentarer?
+
+Inget att tillägga
